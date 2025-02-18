@@ -14,6 +14,15 @@ https://jagermesh.github.io/html-magnifier/
 <script type="text/javascript" src="html-magnifier.js"></script>
 ~~~
 
+Or install using npm:
+~~~
+npm i html-magnifier
+~~~
+And include for ES6 using:
+~~~
+import { HTMLMagnifier } from "html-magnifier";
+~~~
+
 2) Create magnifier instance
 
 ~~~

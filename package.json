@@ -20,6 +20,9 @@
     "type": "git",
     "url": "git+ssh://git@github.com/jagermesh/html-magnifier.git"
   },
+  "exports": {
+    ".": "./index.js"
+  },
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-eslint": "^6.0.0",
